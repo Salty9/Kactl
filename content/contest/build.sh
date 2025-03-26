@@ -1,0 +1,1 @@
+g++ -DLOCAL -std=c++20 $1.cpp -o $1 && ./$1 < input
